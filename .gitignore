@@ -16,3 +16,6 @@
 
 # config
 /config/database.yml
+
+# rubymine
+.idea
